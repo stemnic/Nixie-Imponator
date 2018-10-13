@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1.PcbDoc   12.10.2018  23:17:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             24        PTH        0.00inch (0.00mm)
+T2      24mil (0.6mm)                                             Round             44        PTH        0.00inch (0.00mm)
+T3      28mil (0.7mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T4      30mil (0.75mm)                                            Round             3         PTH        0.00inch (0.00mm)
+T5      33mil (0.85mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T6      35mil (0.9mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T7      39mil (1mm)                                               Round             3         PTH        0.00inch (0.00mm)
+T8      47mil (1.2mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T9      83mil (2.1mm)                                             Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              90
+
+Total Processing Time (hh:mm:ss) : 00:00:00
