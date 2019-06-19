@@ -1,1 +1,3 @@
-﻿Record=TopLevelDocument|FileName=NixieCard.SchDoc
+﻿Record=TopLevelDocument|FileName=NixieDriver.SchDoc
+Record=SheetSymbol|SourceDocument=NixieDriver.SchDoc|Designator=Controller|SchDesignator=Controller|FileName=NixieMicrocontroller.SchDoc|SymbolType=Normal|RawFileName=NixieMicrocontroller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=NixieDriver.SchDoc|Designator=Nixiecard Schematic|SchDesignator=Nixiecard Schematic|FileName=NixieCard.SchDoc|SymbolType=Normal|RawFileName=NixieCard.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

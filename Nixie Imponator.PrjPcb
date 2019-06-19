@@ -394,123 +394,212 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNIUKAPB
 
+[Document22]
+DocumentPath=..\Liberary\Imported ATMEGA4809-AFR.lia\ATMEGA4809-AFR.LibPkg
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document23]
+DocumentPath=NixieMicrocontroller.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KCMLNZCD
+
+[Document24]
+DocumentPath=..\Liberary\Connectors\ZF1-20-01-XX-WT.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YLNRAVOD
+
+[Document25]
+DocumentPath=..\Liberary\Connectors\ZF1-20-01-XX-WT.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OPXPUVDE
+
+[Document26]
+DocumentPath=..\Liberary\Connectors\ZF1-10-01-XX-WT.LibPkg
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.DRR
+DocumentPath=Project Outputs for Nixie Imponator\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.EXTREP
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.GBL
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.GBO
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.GBP
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.GBS
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.GKO
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.GTL
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.GTO
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.GTP
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.GTS
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.LDP
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.REP
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.RUL
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Nixie Imponator\PCB1.TXT
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.DRR
+DocumentPath=Project Outputs for Nixie Imponator\PCB1.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.EXTREP
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.GBL
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.GBO
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.GBP
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.GBS
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.GKO
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.GTL
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.GTO
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.GTP
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.GTS
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.LDP
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.REP
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Nixie Imponator\PCB2.RUL
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
+DocumentPath=Project Outputs for Nixie Imponator\PCB2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
 DocumentPath=Project Outputs for Nixie Imponator\PCB2.TXT
 DItemRevisionGUID=
 
